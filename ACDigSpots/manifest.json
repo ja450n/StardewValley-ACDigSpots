@@ -1,0 +1,10 @@
+{
+  "Name": "AC Dig Spots",
+  "Author": "ja450n",
+  "Version": "1.0.0",
+  "Description": "Animal Crossing Dig Spots",
+  "UniqueID": "ja450n.acdigspots",
+  "EntryDll": "ACDigSpots.dll",
+  "MinimumApiVersion": "2.0",
+  "UpdateKeys": []
+}
